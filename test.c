@@ -4,5 +4,6 @@
 int main()
 {
     printf("This is message for master.\n");  //这条代码是在master分支上写的。
+    printf("This is message for other.\n");  //这是在other分支上写的。
     return 0;
 }
