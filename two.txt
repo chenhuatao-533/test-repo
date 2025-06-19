@@ -7,3 +7,5 @@ This is something modified in xubuntu.
 
 
 这是在GitHub上发送的消息，还能接收到吗？
+
+This is Linux message,i can receive the message,over.
