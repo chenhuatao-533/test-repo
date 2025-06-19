@@ -4,3 +4,6 @@
 This is something modified in xubuntu.
 
 收到收到。本地仓库增加远程仓库操作完毕。
+
+
+这是在GitHub上发送的消息，还能接收到吗？
